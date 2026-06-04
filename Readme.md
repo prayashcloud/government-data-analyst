@@ -135,25 +135,25 @@ Sorry, I cannot answer this question using the available dataset.
 
 ## Pollutant Distribution
 
-![Pollutant Distribution](images/Number of records pollutant.png)
+![Pollutant Distribution](Number of records pollutant.png.png)
 
 ---
 
 ## Top 10 Most Polluted Cities
 
-![Top Polluted Cities](images/top_10_polluted_cities.png)
+![Top Polluted Cities](top_10_polluted_cities.png.png)
 
 ---
 
 ## Query Engine Results
 
-![Query Engine Results](images/query_engine_results.png)
+![Query Engine Results](query_engine_results.png.png)
 
 ---
 
 ## Gradio Interface
 
-![Gradio Interface](images/gradio_interface.png)
+![Gradio Interface](gradio_interface.png.png)
 
 ---
 
